@@ -1,3 +1,6 @@
+// Find word after banana
+
+
 const fs = require("fs");
 
 const filePath = "./banana.text";

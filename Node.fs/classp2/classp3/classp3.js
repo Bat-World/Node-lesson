@@ -1,3 +1,7 @@
+
+// Merge contexts of two files.
+
+
 const fs = require('fs');
 
 
