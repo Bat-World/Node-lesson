@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "ora": "^8.1.1"
+  },
+  "name": "clear",
+  "version": "1.0.0",
+  "main": "ora.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
