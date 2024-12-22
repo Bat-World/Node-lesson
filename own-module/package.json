@@ -1,5 +1,5 @@
 {
-  "name": "bat-world-package-name",
+  "name": "bat-world-temperature-convertor",
   "version": "1.0.0",
   "description": "My very first npm package",
   "main": "index.js",
